@@ -11,11 +11,12 @@ const Header = ({ children }) => {
           <a href="#home" className="link">
             <Image
             className="Logo"
-              src="/logo2.svg"
+              src="/logo.svg"
               alt="Logo - Afaq Azhar"
-              width={45}
-              height={45}
+              width={40}
+              height={40}
             />
+        
           </a>
           <div className="outer-menu relative">
             <SoundBar />
