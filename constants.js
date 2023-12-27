@@ -80,7 +80,7 @@ export const SKILLS = {
     "css",
     "javascript",
     "typescript",
-    "sass",
+    // "sass",
     // "cpp",
     // "java",
     // "python",
@@ -111,52 +111,55 @@ export const SKILLS = {
 };
 
 export const PROJECTS = [
-  // {
-  //   name: "Shotime",
-  //   image: "",
-  //   blurImage: "",
-  //   description:
-  //     "Developed with complete E-commerce functionality and User Authentication 🛍️",
-  //   gradient: ["#FFCF1B", "#FF881B"],
-  //   url: "https://shubh73-shotime.vercel.app/",
-  //   tech: ["react", "tailwindcss", "redux", "mongodb", "stripe"],
-  // },
   {
-    name: "Airbnb",
-    image: "/projects/airbnb.webp",
-    blurImage: "/projects/blur/airbnb-blur.webp",
-    description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
-    gradient: ["#F14658", "#DC2537"],
+    name: "Ever Green",
+    image: "/projects/EverGreen.svg",
+    blurImage: "/projects/EverGreen.svg",
+    gradient: ["#1AA37A", "#9DFFB3"],
     url: "https://github.com/AfaqAzhar987",
-    tech: ["react", "nextjs", "tailwindcss", "mapbox"],
+    tech: [
+      // "react"
+    ],
   },
   {
-    name: "Medium",
-    image: "/projects/medium.webp",
-    blurImage: "/projects/blur/medium-blur.webp",
-    description: "Medium UI clone using NextJS + Tailwind CSS ✍🏻",
-    gradient: ["#FFA62E", "#EA4D2C"],
+    name: "Maha Deco",
+    image: "/projects/MahaDeco.svg",
+    blurImage: "/projects/MahaDeco.svg",
+    gradient: ["#8F5194", "#491B6D"],
     url: "https://github.com/AfaqAzhar987",
-    tech: ["typescript", "react", "nextjs", "tailwindcss", "sanity.io"],
+    tech: [
+      // "react", "chakra-ui", "alan"
+    ],
   },
   {
-    name: "Inshorts",
-    image: "/projects/inshorts.webp",
-    blurImage: "/projects/blur/airbnb-blur.webp",
-    description:
-      "Conversational Voice Controlled React News Application using Alan AI 🎙",
-    gradient: ["#000066", "#6699FF"],
+    name: "Elite Vpn",
+    image: "/projects/EliteVpn.svg",
+    blurImage: "/projects/EliteVpn.svg",
+    gradient: ["#FED500", "#0F866C"],
     url: "https://github.com/AfaqAzhar987",
-    tech: ["react", "chakra-ui", "alan"],
+    tech: [
+      // "typescript", "react", "nextjs", "tailwindcss", "sanity.io"
+    ],
   },
   {
-    name: "Tesla",
-    image: "/projects/tesla.webp",
-    blurImage: "/projects/blur/tesla-blur.webp",
-    description: "A Tesla React Native App 🏎️",
-    gradient: ["#142D46", "#2E4964"],
+    name: "AdZone",
+    image: "/projects/AdZone.svg",
+    blurImage: "/projects/AdZone.svg",
+    gradient: ["#E60965", "#FFA1C9"],
     url: "https://github.com/AfaqAzhar987",
-    tech: ["react"],
+    tech: [
+      // "react"
+    ],
+  },
+  {
+    name: "Falcon Web Pro",
+    image: "/projects/WebPro.svg",
+    blurImage: "/projects/WebPro.svg",
+    gradient: ["#03173A", "#1557DD"],
+    url: "https://github.com/AfaqAzhar987",
+    tech: [
+      // "react", "nextjs", "tailwindcss", "mapbox"
+  ],
   },
 ];
 
